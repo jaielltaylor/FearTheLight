@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_GameScenes/LogoScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/_GameScenes/BeginningScroll.unity
+    guid: f147bc7869628444ebe0db32aae379b4
+  - enabled: 1
+    path: Assets/_GameScenes/Upper Deck.unity
+    guid: 587c361688f05ff4a9a3267daa10cde8
+  - enabled: 1
+    path: Assets/_GameScenes/Lower Deck.unity
+    guid: ec9f1e0fb531cab4385f69ebbc426dfa
+  - enabled: 1
+    path: Assets/_GameScenes/WinScreen.unity
+    guid: 6d9d0d38ead10a64fa164d3b45135f16
+  - enabled: 1
+    path: Assets/_GameScenes/DeathScreen.unity
+    guid: c0349bdf433e2374a8ecc21382105ef3
+  m_configObjects: {}
